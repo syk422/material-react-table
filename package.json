@@ -1,6 +1,5 @@
 {
-  "name": "material-react-table",
-  "version":"0.1.0",
+  "name": "material-react-table-turbo",
   "private": true,
   "workspaces": [
     "apps/*",
